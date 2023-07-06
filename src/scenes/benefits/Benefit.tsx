@@ -1,6 +1,6 @@
 import { SelectedPage } from '@/shared/types';
 import { motion } from 'framer-motion';
-import React, { ReactNode } from 'react';
+import { ReactNode } from 'react';
 import AnchorLink from 'react-anchor-link-smooth-scroll';
 
 const childVariant = {
